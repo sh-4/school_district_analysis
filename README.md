@@ -80,7 +80,7 @@ After (without THS ninth graders):
 
 The scores by school spending were completely unaffected by removing the Thomas High School ninth grade scores
 
-#### Scores by School Size
+### Scores by School Size
 Before (with THS ninth graders):
 ![scores_school_size_original](https://user-images.githubusercontent.com/105808695/177358284-ef93f960-28ce-423f-9f5f-50a14beb82bc.png)
 
@@ -89,7 +89,7 @@ After (without THS ninth graders):
 
 The scores by school size were completely unaffected by removing the Thomas High School ninth grade scores
 
-#### Scores by School Type
+### Scores by School Type
 Before (with THS ninth graders):
 ![scores_school_type_original](https://user-images.githubusercontent.com/105808695/177358211-79dee917-4b0e-462f-af54-ef2e16de5978.png)
 
