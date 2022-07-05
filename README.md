@@ -1,3 +1,15 @@
+# School District Analysis
+
+## Overview
+
+The purpose of this analysis is to determine whether or not the Thomas High School ninth grade scores affected our overall school district analysis. Due to potential academic dishonesty, Thomas High School’s ninth grade scores cannot fairly be compared to the rest of the district’s scores.
+
+It's important to re-calculate the data without the Thomas High School ninth grade students to gain accurate insight into how THS is actually performing. By just removing the scores of the THS ninth graders, without accounting for the number of students, the data is skewed and makes Thomas High School appear to have decent math and reading scores, but horrible passing percent rates.
+![per_school_summary_without_THS9](https://user-images.githubusercontent.com/105808695/177363723-131d87db-7588-4288-9286-0bfd193473fe.png)
+
+Our results have taken this into consideration and show the corrected analysis with only the eligible Thomas High School students in grades 10 through 12.
+
+## Results
 
 ### The District Summary
 Before (with THS ninth graders):
@@ -85,3 +97,28 @@ After (without THS ninth graders):
 ![scores_school_type_without_THS9](https://user-images.githubusercontent.com/105808695/177358166-f0f24912-3186-4e6b-ba63-8e27d89cc2a8.png)
 
 The scores by school type were completely unaffected by removing the Thomas High School ninth grade scores
+
+## Summary
+
+Overall, there were four changes to the School District Analysis after removing the Thomas High School’s ninth-grade scores:
+
+1.	The District Summary displayed a very slight, insignificant drop in the following categories:
+      - Average math score
+      - % overall passing
+      - % passing reading
+      - % passing math
+
+2.	The School Summary also displayed a very slight, insignificant drop in the following categories for Thomas High School:
+      - Average reading score
+      - % overall passing
+      - % passing reading
+      - % passing math
+
+3.	When comparing Thomas High School’s ranking with the rest of the schools in the district, there was an insignificant drop in the following categories:
+      - % overall passing
+      - % passing reading
+      - % passing math
+    
+    These changes were not enough to remove Thomas High School from holding its rank as the number 2 school in the district.
+
+4.	When looking at math and reading scores by grade, by removing the Thomas High School ninth grade scores, we no longer have any data to compare for these particular ninth graders against any other ninth graders in the district.
